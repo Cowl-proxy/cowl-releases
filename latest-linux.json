@@ -1,14 +1,19 @@
 {
-  "version": "0.28.0",
+  "version": "0.28.7",
   "channel": "stable",
-  "pub_date": "2026-09-27T20:54:12.756786Z",
+  "pub_date": "2026-09-30T14:34:50.847508Z",
   "min_supported": "0.14.0",
-  "notes_url": "https://github.com/Cowl-proxy/cowl-releases/releases/tag/0.28.0",
+  "notes_url": "https://github.com/Cowl-proxy/cowl-releases/releases/tag/0.28.7",
   "artifacts": {
     "linux-amd64-deb": {
-      "file": "Cowl-linux-amd64.deb",
-      "sha256": "d42a9b625adc74303f759c6e0e5bb0bf58fd7e381d5694beff5829257658e911",
-      "size": 35717728
+      "file": "Cowl-linux-x64.deb",
+      "sha256": "6ae5fb07ab3686002c5ebbf5e4e6ebbea380e608c91e3e43ed987f547ebcf55e",
+      "size": 35817246
+    },
+    "linux-amd64-rpm": {
+      "file": "Cowl-linux-x64.rpm",
+      "sha256": "5552652f898fa79876b737bf576209eb5d81bc57e5e18185747c0909ab03c69d",
+      "size": 35740926
     }
   }
 }
