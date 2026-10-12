@@ -11,6 +11,13 @@ A cross-platform VPN client built on Xray-core for Windows, Linux and Android.
 | Linux x64 (.rpm) | [Cowl-linux-x64.rpm](https://github.com/Cowl-proxy/cowl-releases/releases/latest/download/Cowl-linux-x64.rpm) | [download](https://releases.cowl.cc/Cowl-linux-x64.rpm) |
 | Android arm64 | [Cowl-android-arm64.apk](https://github.com/Cowl-proxy/cowl-releases/releases/latest/download/Cowl-android-arm64.apk) | [download](https://releases.cowl.cc/Cowl-android-arm64.apk) |
 
+Supported:
+Debian 12,13
+Ubuntu 22.04, 24.04 and newer
+Linux Mint 21.x, 22.x, LMDE 6, 7
+Fedora 36+
+RHEL / Alma / Rocky 10
+
 All releases: [github.com/Cowl-proxy/cowl-releases/releases](https://github.com/Cowl-proxy/cowl-releases/releases)
 
 ## Community
