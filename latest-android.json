@@ -1,14 +1,14 @@
 {
-  "version": "0.36.0",
+  "version": "0.37.0",
   "channel": "stable",
-  "pub_date": "2026-10-17T14:56:08.573642Z",
+  "pub_date": "2026-10-22T18:47:18.383743Z",
   "min_supported": "0.35.0",
-  "notes_url": "https://github.com/Cowl-proxy/cowl-releases/releases/tag/0.36.0",
+  "notes_url": "https://github.com/Cowl-proxy/cowl-releases/releases/tag/0.37.0",
   "artifacts": {
-    "android-arm64-apk": {
-      "file": "Cowl-android-arm64.apk",
-      "sha256": "deb6b6a9132f977cf4c75d061ca87808083f327b0461bb6b06d0c6696e8a144a",
-      "size": 29709045
+    "android-apk": {
+      "file": "Cowl-android.apk",
+      "sha256": "895072015ea733b99021fd2fe0abde5f5a1665a48cfd2e6506582884007cd260",
+      "size": 52666313
     }
   }
 }
