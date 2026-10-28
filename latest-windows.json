@@ -1,14 +1,14 @@
 {
-  "version": "0.39.1",
+  "version": "0.40.0",
   "channel": "stable",
-  "pub_date": "2026-10-27T13:07:40.775627Z",
+  "pub_date": "2026-10-28T17:22:56.028478Z",
   "min_supported": "0.38.0",
-  "notes_url": "https://github.com/Cowl-proxy/cowl-releases/releases/tag/0.39.1",
+  "notes_url": "https://github.com/Cowl-proxy/cowl-releases/releases/tag/0.40.0",
   "artifacts": {
     "windows-x64-setup": {
       "file": "Cowl-windows-x64-setup.exe",
-      "sha256": "cfe48d27b48d630f021d1f5dc615cd77bc92effc07f2fbbf454ac4ae1b8b74bf",
-      "size": 25324957
+      "sha256": "5d25e74cab4164c64cef25c56a78907f732e8a0c10a0a5db2c37acb6cb9e698f",
+      "size": 25330296
     }
   }
 }
